@@ -20,7 +20,7 @@ Build Tools: (Specify if you used any build tools like Maven or Gradle)
 Prerequisites
 Java Development Kit (JDK): Ensure JDK 8 or higher is installed.
 Clone the Repository:
-git clone https://github.com/yourusername/airline-management-system.git
+git clone https://github.com/Rohit220305/airline-management-system.git
 Build and Run
 Navigate to the Project Directory:
 cd airline-management-system
